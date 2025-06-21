@@ -1,4 +1,4 @@
-# 📚 BookVocal – PDF-to-Voice Web App
+# 📚 BookVocal – AI PDF-to-Voice Web App
 
 > Read your favorite storybooks or novels aloud with one click! Upload any PDF, choose a page range, select a voice, and let BookVocal narrate your book with synchronized highlighting.
 
@@ -11,7 +11,7 @@
 - 📂 Upload any PDF book or story
 - 🔢 Select a page range to read
 - 🔊 Text-to-speech using browser’s AI voices (Web Speech API)
-- 🎙️ Multiple voice options (Google, Microsoft)
+- 🎙️ Multiple voice options 
 - 💡 Light/Dark Mode toggle
 - 🔐 Firebase Auth (Login & Signup)
 - 📖 Real-time line-by-line reading with highlight
