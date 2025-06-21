@@ -1,4 +1,4 @@
-# 📚 BookVocal – AI PDF-to-Voice Web App
+# 📚 BookVocal – PDF-to-Voice Web App
 
 > Read your favorite storybooks or novels aloud with one click! Upload any PDF, choose a page range, select a voice, and let BookVocal narrate your book with synchronized highlighting.
 
@@ -114,4 +114,12 @@ bookvocal/
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [@itsbapunpanda]
+Made with ❤️ by itsbapunpanda
+
+https://github.com/user-attachments/assets/392dcb7c-0783-4189-86de-5535efda1f09
+
+
+
+
+
+
