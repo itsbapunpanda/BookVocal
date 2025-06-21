@@ -91,26 +91,6 @@ The app will be available at:
 - If you leak any key, **revoke it immediately** and generate a new one in Firebase
 - Use `.gitignore` to avoid committing `.env`
 
----
-
-## 📂 Project Structure
-
-```
-bookvocal/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── hooks/
-│   ├── utils/
-│   ├── firebase.ts
-│   └── App.tsx
-├── .env
-├── vite.config.ts
-└── README.md
-```
-
----
 
 ## 👨‍💻 Author
 
